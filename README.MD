@@ -67,3 +67,7 @@ IsDown:
 bool isDown();
 ```
 - Returns wether the button is currently pressed
+
+
+### License
+This project is licensed under the MIT license
