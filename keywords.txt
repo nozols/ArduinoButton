@@ -1,0 +1,4 @@
+Button	KEYWORD1
+init	KEYWORD2
+loop	KEYWORD3
+isDown	KEYWORD4
